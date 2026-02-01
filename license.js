@@ -44,3 +44,4 @@ function showLicense(days) {
 
     predictDiv.style.color = "";
 }
+
