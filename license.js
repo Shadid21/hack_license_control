@@ -36,7 +36,7 @@ function showLicense(days) {
     const licenseDiv = document.getElementById("licenseTime");
     const predictDiv = document.getElementById("predict");
 
-    licenseDiv.innerText = days + " Days Left";
+    licenseDiv.innerText = days + " D";
     licenseDiv.style.color = "lime";
 
     predictDiv.style.color = "";
