@@ -6,7 +6,7 @@ const users = [
     { username: "sadid", password: "SHADID21", expire: "2026-01-29" },
     { username: "user1", password: "1111", expire: "2026-03-01" },
     { username: "user2", password: "2222", expire: "2026-02-15" },
-    { username: "user2", password: "3333", expire: "2026-05-15" }
+    { username: "user3", password: "3333", expire: "2026-05-15" }
 ];
 
 // ===== PASSWORD CHECK =====
